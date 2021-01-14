@@ -110,12 +110,6 @@ public class Main {
         System.out.println(intVector1.get(11));
         System.out.println(intVector1.get(16));
 
-
-
-
-
-
-
     }
 
     /** Method for exercise 1 */

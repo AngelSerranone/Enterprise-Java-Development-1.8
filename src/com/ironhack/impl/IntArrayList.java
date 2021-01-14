@@ -15,12 +15,11 @@ public class IntArrayList implements IntList {
                 newArray[i] = array[i];
             }
             array = newArray;
-            count+=1;
 
         } else {
             array[count]=number;
-            count+=1;
         }
+        count+=1;
     }
 
     @Override
